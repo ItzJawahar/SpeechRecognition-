@@ -1,0 +1,22 @@
+Starting recording... Speak now!
+(Press Ctrl+C to stop recording)
+
+Processing with Whisper...
+
+========================================
+TRANSCRIPTION RESULT:
+========================================
+ In 2026, Vijay became CM of Tamil Nadu.
+========================================
+
+
+
+
+
+
+
+
+
+
+
+
